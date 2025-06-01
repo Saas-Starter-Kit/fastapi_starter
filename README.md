@@ -28,7 +28,7 @@ cd fastapi-todo-api
 
 python -m venv .venv
 source .venv/bin/activate  # or .venv\Scripts\activate on Windows
-
+```
 
 ### Install
 ```uv pip install .```
