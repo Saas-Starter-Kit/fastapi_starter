@@ -20,15 +20,6 @@ A modern and modular FastAPI application for managing Todo items with full CRUD 
 
 ## 🚀 Getting Started
 
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/yourusername/fastapi-todo-api.git
-cd fastapi-todo-api
-
-python -m venv .venv
-source .venv/bin/activate  # or .venv\Scripts\activate on Windows
-```
 
 ### Install
 ```uv pip install .```
